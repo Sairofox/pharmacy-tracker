@@ -1,4 +1,4 @@
-# pharmacy-tracker
+
 # Pharmacy Tracker App
 
 **Pharmacy Tracker** is a private-use app designed to help users efficiently organize and manage their pharmacy inventory. With this app, you can easily keep track of essential information such as expiration dates, stock levels, and more.
